@@ -1,0 +1,18 @@
+h1{
+   color: red;
+   text-align: center;
+   text-decoration: underline;
+   color: white;
+}
+p{
+   text-align: center;
+   color: white;
+}
+.para{
+   text-align: center;
+   color: white;
+   width: 21%;
+   bottom: 2%;
+   right: 20%;
+   position: absolute;
+}
